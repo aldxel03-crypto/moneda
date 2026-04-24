@@ -1,1 +1,1 @@
-es un programa que simula la tirada de una moneda 
+es una app que simula la tirada de una moneda 
